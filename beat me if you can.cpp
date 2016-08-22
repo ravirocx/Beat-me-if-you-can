@@ -1,7 +1,7 @@
 //@ravirocx
 /* 
 This is a simple c++ game 
-Any suggestion for improvement or appreciation is welcomed 
+Any suggestion for improvement or appreciation is welcome
 email- itsyourraviraj@gmail.com
 */
 #include<bits/stdc++.h>
